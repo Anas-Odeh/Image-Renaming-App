@@ -28,6 +28,8 @@ To download the app click on the Image-Renaming-App.exe as shown in the image be
 
 To initiate the app, simply execute the Image-Renaming-App.exe. The software automatically scans for image files with case viewer annotations within the specified directory, applies the annotation-based renaming protocol, and aggregates the renamed images into the "pooled images" folder.
 
+![Screenshot (37)](https://github.com/Anas-Odeh/Image-Renaming-App/assets/133384773/731b8396-00bf-4fe7-b3b4-17a60eab32ad)
+
 
 **Application Scenarios**
 
