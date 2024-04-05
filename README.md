@@ -1,6 +1,7 @@
 # **Image-Renaming-App for Annotated Biological Imaging Data**
 
-![Image Link]()
+![ICON-1](https://github.com/Anas-Odeh/Image-Renaming-App/assets/133384773/a0ca77ec-3ca9-430c-b4f5-f7c4c1409045)
+
 
 # Introduction
 
