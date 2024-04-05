@@ -5,7 +5,7 @@
 
 # Introduction
 
-The Image-Renaming-App is a specialized software solution designed to address the intricate challenges of organizing and managing annotated imaging data within the biological research domain. By leveraging case viewer annotations, this tool introduces a systematic approach to renaming and consolidating annotated image files, thereby enhancing the efficiency of data retrieval and analysis workflows.
+The Image-Renaming-App is a specialized software solution based on python programming and designed to address the intricate challenges of organizing and managing annotated imaging data within the biological research domain. By leveraging case viewer annotations, this tool introduces a systematic approach to renaming and consolidating annotated image files, thereby enhancing the efficiency of data retrieval and analysis workflows.
 
 ### **The code assumes that each image is stored in a separate subfolder, following the default saving option of the case viewer.**
 
