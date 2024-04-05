@@ -25,20 +25,14 @@ To download the app click on the Image-Renaming-App.exe as shown in the image be
 
 
 
-
-
 **Execution**
 
 To initiate the app, simply execute the Image-Renaming-App.exe. The software automatically scans for image files with case viewer annotations within the specified directory, applies the annotation-based renaming protocol, and aggregates the renamed images into the "pooled images" folder.
 
 
-
-
 **Application Scenarios**
 
 This tool is particularly valuable in fields such as histology, pathology, and environmental biology, where annotated images play a critical role in research documentation and analysis. It offers a streamlined solution for managing large volumes of annotated imaging data, ensuring that researchers can focus on their scientific inquiries with enhanced data organization support.
-
-
 
 
 
