@@ -32,9 +32,10 @@ To initiate the app, simply execute the Image-Renaming-App.exe. The software aut
 
 ![Screenshot (37)](https://github.com/Anas-Odeh/Image-Renaming-App/assets/133384773/731b8396-00bf-4fe7-b3b4-17a60eab32ad)
 
-**Complete this straightforward process in just a few seconds with only two steps!**
+##**Complete this straightforward process in just a few seconds with only two steps!**
 
 **1. Select the main folder that contains multiple subfolders.**
+
 **2. Start analysis.**
 
 **Application Scenarios**
