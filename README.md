@@ -13,7 +13,7 @@ The Image-Renaming-App is a specialized software solution based on python progra
 
 * Annotation-Based Renaming: The application integrates a robust renaming mechanism that utilizes the metadata from case viewer annotations. This ensures that each image file is renamed in a manner that reflects its specific annotated content, facilitating easier identification and categorization of data.
 
-* Multiple Image formats: tif, png, jpg, bmp.
+* Multiple Image formats: '.png', '.jpg', '.jpeg', '.tif'
 
 * Centralized Data Repository: In addition to renaming, the tool compiles all annotated images into a unified directory named "pooled images." This centralized repository enables researchers to access their entire annotated dataset conveniently, streamlining the data analysis process.
 
