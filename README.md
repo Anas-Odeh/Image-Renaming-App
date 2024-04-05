@@ -40,7 +40,7 @@ To initiate the app, simply execute the Image-Renaming-App.exe. The software aut
 
 ---
 
-**Application Scenarios**
+## **Application Scenarios**
 
 This tool is particularly valuable in fields such as histology, pathology, and environmental biology, where annotated images play a critical role in research documentation and analysis. It offers a streamlined solution for managing large volumes of annotated imaging data, ensuring that researchers can focus on their scientific inquiries with enhanced data organization support.
 
