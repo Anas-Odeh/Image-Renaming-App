@@ -53,4 +53,4 @@ This tool is particularly valuable in fields such as histology, pathology, and e
 
 # **License**
 
-The Image-Renaming-App is distributed under the Apache License 2.0. This license promotes open-source collaboration while providing the necessary legal protection for contributors and users alike. I believe in the power of open science and the positive impact of sharing knowledge and tools within the research community. 
+The Image-Renaming-App is distributed under the Apache License 2.0. This license promotes open-source collaboration while providing the necessary legal protection for contributors and users alike. I believe in the power of open science and the positive impact of sharing knowledge and tools within the research community. Figures were Created with BioRender.com.
