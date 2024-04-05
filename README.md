@@ -19,7 +19,7 @@ The Image-Renaming-App is a specialized software solution designed to address th
 
 **Installation**
 
-The Image-Renaming-App is provided as a self-contained executable file (Image-Renaming-App.exe), facilitating straightforward deployment without the need for complex setup procedures.
+The Image-Renaming-App is provided as a self-contained executable file [Image-Renaming-App.exe](https://github.com/Anas-Odeh/Image-Renaming-App/releases/tag/Image-Renaming-App), facilitating straightforward deployment without the need for complex setup procedures.
 
 **Execution**
 
