@@ -7,6 +7,8 @@
 
 The Image-Renaming-App is a specialized software solution designed to address the intricate challenges of organizing and managing annotated imaging data within the biological research domain. By leveraging case viewer annotations, this tool introduces a systematic approach to renaming and consolidating annotated image files, thereby enhancing the efficiency of data retrieval and analysis workflows.
 
+**The code assumes that each image is stored in a separate subfolder, following the default saving option of the case viewer.**
+
 # Key Features
 
 * Annotation-Based Renaming: The application integrates a robust renaming mechanism that utilizes the metadata from case viewer annotations. This ensures that each image file is renamed in a manner that reflects its specific annotated content, facilitating easier identification and categorization of data.
@@ -29,6 +31,9 @@ To download the app click on the Image-Renaming-App.exe as shown in the image be
 To initiate the app, simply execute the Image-Renaming-App.exe. The software automatically scans for image files with case viewer annotations within the specified directory, applies the annotation-based renaming protocol, and aggregates the renamed images into the "pooled images" folder.
 
 ![Screenshot (37)](https://github.com/Anas-Odeh/Image-Renaming-App/assets/133384773/731b8396-00bf-4fe7-b3b4-17a60eab32ad)
+
+1. Select the main folder that contains multiple subfolders.
+2. Start analysis.
 
 
 **Application Scenarios**
