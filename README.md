@@ -39,7 +39,7 @@ To initiate the app, simply execute the Image-Renaming-App.exe. The software aut
 **2. Start analysis.**
 
 
-For example, within the main folder named 'Images', there are two subfolders named 'Nature', which contains an image called 'Picture 1', and 'River', which contains an image called 'image'. After running the app, these two images will be renamed to 'Nature' and 'River', respectively. Finally, a new folder called 'Pooled Images' will be created, containing copies of these two images.
+For example, within the main folder named ['Images'](https://github.com/Anas-Odeh/Image-Renaming-App/tree/main/Example%20Images), there are two subfolders named 'Nature', which contains an image called 'Picture 1', and 'River', which contains an image called 'image'. After running the app, these two images will be renamed to 'Nature' and 'River', respectively. Finally, a new folder called 'Pooled Images' will be created, containing copies of these two images.
 
 ---
 
