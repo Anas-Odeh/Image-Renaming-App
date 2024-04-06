@@ -24,6 +24,7 @@ The Image-Renaming-App is a specialized software solution based on python progra
 **Installation**
 
 The Image-Renaming-App is provided as a self-contained executable file [Image-Renaming-App.exe](https://github.com/Anas-Odeh/Image-Renaming-App/releases/tag/Image-Renaming-App), facilitating straightforward deployment without the need for complex setup procedures.
+
 To download the app click on the Image-Renaming-App.exe as shown in the image below:
 ![image](https://github.com/Anas-Odeh/Image-Renaming-App/assets/133384773/b708e2af-0c70-4ce8-a336-312e3322dbf4)
 
